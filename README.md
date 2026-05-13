@@ -4,17 +4,38 @@ This project is an interactive Excel Dashboard created to analyze and monitor em
 
 
 1.Features
+
+
 Employee performance tracking
+
+
 Work efficiency analysis
+
+
 Break time monitoring
+
+
 Call handling statistics
+
+
 Active working percentage calculation
+
+
 Overall performance summary
+
+
 Interactive dashboard visuals and reports
+
+
 Automated calculations using Excel formulas/macros
 
+
 2.Dashboard Modules
+
+
 Break Analysis
+
+
 Tracks different types of breaks taken by employees such as:
 
 
@@ -36,7 +57,9 @@ Meetings
 Other Work
 
 
-Efficiency Report
+3.Efficiency Report
+
+
 Measures:
 
 
@@ -58,7 +81,9 @@ Call Handling Performance
 Hold Call Analysis
 
 
-Overall Performance
+4.Overall Performance
+
+
 Displays:
 
 
@@ -80,7 +105,9 @@ Hold Call Statistics
 Unattended Call Time
 
 
-Summary Report
+5.Summary Report
+
+
 Provides a quick overview of:
 
 
@@ -134,5 +161,3 @@ File Information
 File Type: .xlsm (Macro Enabled Excel Workbook)
 
 
-Author
-Created by Dhanvi Chirag Shah
