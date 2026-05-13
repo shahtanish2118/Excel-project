@@ -1,5 +1,8 @@
 Employee Performance Dashboard – Excel Project
 This project is an interactive Excel Dashboard created to analyze and monitor employee performance, productivity, and work efficiency. The dashboard provides a clear visual representation of employee activities, call handling performance, break analysis, and overall efficiency using Excel formulas, charts, pivot tables, and VBA-enabled features.
+
+
+
 1.Features
 Employee performance tracking
 Work efficiency analysis
